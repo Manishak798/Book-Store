@@ -1,4 +1,4 @@
-# 📚 MERN Book Store
+# 📚 MERN Book Store App
 
 MERN Book Store is a full-stack web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, designed to manage and showcase a collection of books.
 
@@ -9,6 +9,8 @@ MERN Book Store is a full-stack web application built using the MERN (MongoDB, E
 ![Screenshot 2024-02-19 193413](https://github.com/Manishak798/Book-Store/assets/90680330/d1a4120f-91e3-4ae5-8438-581187385239)
 
 ![image](https://github.com/Manishak798/Book-Store/assets/90680330/f073783f-1c02-489a-8307-847e7aef311e)
+
+![image](https://github.com/Manishak798/Book-Store/assets/90680330/9d25324a-41dc-4acc-96ac-cde5150ae043)
 
 🔗 [Live Demo]()
 
