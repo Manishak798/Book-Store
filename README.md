@@ -34,7 +34,7 @@ MERN Book Store is a full-stack web application built using the MERN (MongoDB, E
    - Create a `.env` file in the root directory.
    - Add the following environment variables:
      ```
-     PORT=3000
+     PORT=5000
      MONGODB_URI=<your_mongodb_uri>
      JWT_SECRET=<your_jwt_secret>
      ```
