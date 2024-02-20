@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "dev": "concurrently \"npm start \"\"npm run BookStoreFrontend\""
   },
   "keywords": [],
   "author": "",
