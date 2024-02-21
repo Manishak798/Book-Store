@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "nodemon index.js",
-    "dev": "concurrently \"npm start \"\"npm run BookStoreFrontend\""
+    "dev": "concurrently \"npm start\" \"npm run BookStoreFrontend\""
   },
   "keywords": [],
   "author": "",
