@@ -7,12 +7,12 @@ import path from 'path';
 
 const app = express();
 
-//static files
-app.use(express.static(path.join(__dirname, './Frontend/BookStoreFrontend/dist')));
+// //static files
+// app.use(express.static(path.join(__dirname, './Frontend/BookStoreFrontend/dist')));
 
-app.get('*', (req, res) => {
-    res.sendFile(path.join(__dirname, './Frontend/BookStoreFrontend/dist/index.html'))
-})
+// app.get('*', (req, res) => {
+//     res.sendFile(path.join(__dirname, './Frontend/BookStoreFrontend/dist/index.html'))
+// })
 
 //cors allow all
 app.use(cors());//we use this because our localhost id is diff in frontend
