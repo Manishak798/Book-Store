@@ -23,7 +23,7 @@ MERN Book Store is a full-stack web application built using the MERN (MongoDB, E
 - **Pagination**: Navigate through large collections of books with ease.
 - **Reviews and Ratings**: Allow users to leave reviews and ratings for books.
 
-## Installation
+## Installation 🔆🪛
 
 1. Clone the repository:
    ```bash
