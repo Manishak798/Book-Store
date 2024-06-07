@@ -71,7 +71,7 @@ MERN Book Store is a full-stack web application built using the MERN (MongoDB, E
 
 9. Visit `http://localhost:3000` in your web browser.
 
-## Usage
+## Usage 💻
 
 1. Register for an account or log in if you already have one.
 2. Browse through the collection of books.
@@ -79,7 +79,7 @@ MERN Book Store is a full-stack web application built using the MERN (MongoDB, E
 4. Add books to your cart and proceed to checkout.
 5. Leave reviews and ratings for books you've read.
 
-## Contributing
+## Contributing 🤝🏻
 
 Contributions are welcome! Please follow these steps to contribute:
 
@@ -90,21 +90,5 @@ Contributions are welcome! Please follow these steps to contribute:
 5. Push to the branch (`git push origin feature/your-feature-name`).
 6. Create a new pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-- [MongoDB](https://www.mongodb.com/)
-- [Express.js](https://expressjs.com/)
-- [React.js](https://reactjs.org/)
-- [Node.js](https://nodejs.org/)
-- [Bootstrap](https://getbootstrap.com/)
-- [JWT](https://jwt.io/)
-
-## Author
-
-Your Name - Manisha Kundnani (https://github.com/Manishak798)
 
 
