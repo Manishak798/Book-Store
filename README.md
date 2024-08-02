@@ -12,8 +12,6 @@ MERN Book Store is a full-stack web application built using the MERN (MongoDB, E
 
 ![image](https://github.com/Manishak798/Book-Store/assets/90680330/9d25324a-41dc-4acc-96ac-cde5150ae043)
 
-🔗 [Live Demo]()
-
 ## Features ⭐
 
 - **User Authentication**: Secure authentication system for users.
